@@ -1,5 +1,5 @@
 **Project Title:** BMW Sales & Market Analysis
-**Completion Date:** July 2025
+**Completion Date:** August 2025
 
 **Overview**
 This project explores patterns in BMW vehicle sales and evaluates factors influencing performance through predictive modeling and correlation analysis. It aims to provide insights into market behavior and identify the most impactful features driving sales outcomes.
